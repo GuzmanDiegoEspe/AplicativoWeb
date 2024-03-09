@@ -1,0 +1,7 @@
+Next JS y Tailwind css
+
+npx create-next-app@latest 
+
+Sequelize 
+npm install --save mysql2
+
